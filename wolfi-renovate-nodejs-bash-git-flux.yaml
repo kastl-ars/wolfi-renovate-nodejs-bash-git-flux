@@ -15,7 +15,6 @@ contents:
     - gpg
     - gpg-agent
     - nghttp2
-    - nodejs-22
     - renovate
 
 # By convention, Node apps run in an /app directory, which should be owned by
